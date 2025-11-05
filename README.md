@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Darius Jerry Portfolio Preview" width="800px">
+  <img src="logo.jpg" alt="Darius Jerry Portfolio Preview" width="200px">
 </p>
 
 # 🎨 Darius Jerry — Personal Portfolio  
