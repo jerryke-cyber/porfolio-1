@@ -1,0 +1,20 @@
+# add-screenshot.ps1
+# Usage: run from any location or double-click in PowerShell (if execution policy allows)
+$repoPath = 'C:\Users\Darius Jerry\OneDrive\Documents\GitHub\porfolio-1'
+$screenshot = 'Screenshot1.png'
+
+if (-not (Test-Path $repoPath)) {
+    Write-Error "Repository path not found: $repoPath"
+    exit 1
+}
+
+Set-Location $repoPath
+
+if (-not (Test-Path $screenshot)) {
+    Write-Error "File not found: $screenshot"
+    exit 1
+}
+
+git add -- "$screenshot"
+git commit -m "Add Screenshot1.png" || Write-Output "Nothing to commit or commit failed."
+git push
