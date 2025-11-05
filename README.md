@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshot.png" alt="Darius Jerry Portfolio Preview" width="800px">
+</p>
+
 # 🎨 Darius Jerry — Personal Portfolio  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
