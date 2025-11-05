@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="logo.jpg" alt="Darius Jerry Portfolio Preview" width="200px">
+  <img src="logo.jpg" alt="Darius Jerry Portfolio Logo" width="200px"><br>
+  <b>⚡ DARIUS JERRY ⚡</b><br>
+  <em>Tech Enthusiast | Web Developer | Pianist</em>
 </p>
+
 
 # 🎨 Darius Jerry — Personal Portfolio  
 
