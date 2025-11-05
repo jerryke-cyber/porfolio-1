@@ -1,6 +1,7 @@
 <p align="center">
   <img 
     src="Screenshot1.png" 
+    src="screenshot1.jpg" 
     alt="Darius Jerry Portfolio Preview" 
     width="800px" 
     style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border: 1px solid #ddd;"
