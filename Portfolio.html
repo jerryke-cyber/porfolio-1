@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Darius Jerry — Portfolio</title>
+  <meta name="description" content="Portfolio of Darius Jerry" />
+  <link rel="stylesheet" href="Portfolio.css">
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <image src="logo.jpg" alt="Darius Jerry logo" class="logo" />
+        <div>
+          <div class="name">Darius Jerry</div>
+          <div class="subtitle">Tech Enthusiast • Student • Instrumentalist</div>
+        </div>
+      </div>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div class="card intro">
+        <h1>Hey — I'm Darius Jerry 👋</h1>
+        <p>I'm a student at Maseno University persueing a Degree in an Educational Course, and technology enthusiast exploring the worlds of web development and Music. I love blending creativity and logic to build clean, modern designs and experiences.</p>
+        <div class="cta">
+          <a class="btn" href="#contact">Let's Connect</a>
+          <a class="secondary" href="#projects">View My Work</a>
+        </div>
+        <div class="focus">
+          <strong>Current focus:</strong> Learning JavaScript, improving my web dev. skills, and mastering music technology skills.
+        </div>
+      </div>
+
+      <aside class="card profile">
+        <img src="avatar.jpg" alt="Darius Jerry" class="avatar" />
+        <div class="location"><strong>Location</strong><div class="muted">Kenya</div></div>
+        <div class="featured">
+          <div class="featured-title">Featured Projects</div>
+          <div class="grid projects-grid">
+            <div class="project">
+              <h3>Personal Portfolio</h3>
+              <div class="muted small">My first responsive website showcasing my coding and design skills. <a href="#" class="accent">View</a></div>
+            </div>
+            <div class="project">
+              <h3>Piano Showcase Page</h3>
+              <div class="muted small">A simple web page where I display and describe piano pieces I’ve practiced. <a href="#" class="accent">Demo</a></div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <section id="about" class="card section">
+      <h2>About</h2>
+      <p class="muted">
+        I'm <strong>Darius Jerry</strong> — a student passionate about technology, music, and personal growth. 
+        I enjoy experimenting with web design and coding while building a foundation in digital trading and creative performance. 
+        When I’m not learning new tech stuff, I’m either at the piano or exploring how to make online experiences better for everyone. 
+        My goal is to keep growing, creating, and connecting ideas across music, psychology, and technology.
+      </p>
+    </section>
+
+    <section id="projects" class="card section">
+      <h2>Projects</h2>
+      <div class="grid projects-grid three-col">
+        <div class="project">
+          <h3>Portfolio Website</h3>
+          <p class="muted small">Built using HTML and CSS. A showcase of my skills, creativity, and learning journey. <a href="#" class="accent">View</a></p>
+        </div>
+        <div class="project">
+          <h3>Piano Showcase</h3>
+          <!-- ...existing code... -->
+<p class="muted small">
+  A collection of my favorite piano pieces, from classical to modern, including Hungarian Dance No. 5.
+  <a href="https://youtu.be/9K7Ddsgaeas?list=RD9K7Ddsgaeas" class="accent" target="_blank" rel="noopener noreferrer" aria-label="Listen to Hungarian Dance No. 5 on YouTube">Listen</a>
+</p>
+<!-- ...existing code... -->
+        </div>
+        <div class="project">
+          <h3>Hobby</h3>
+<p class="muted small">With these qualties that make me absolutely outshining in most spheres of life.What I like to do most is playing classical music on my Descant recorder😂.
+  I would not mind if you could spare some time and follow me on my facebook page.
+  <a href="https://www.facebook.com/profile.php?id=61550285724963" class="accent" target="_blank" rel="noopener noreferrer">Follow me on Facebook</a>
+</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="skills" class="card section">
+      <h2>Skills</h2>
+      <div class="skills">
+        <span class="chip">HTML</span>
+        <span class="chip">CSS</span>
+        <span class="chip">JavaScript (learning)</span>
+        <span class="chip">Git & GitHub</span>
+        <span class="chip">Web Devlopment</span>
+        <span class="chip">Music Performance</span>
+        <span class="chip">Problem Solving</span>
+      </div>
+    </section>
+
+    <section id="contact" class="card section">
+      <h2>Contact</h2>
+      <form id="contactForm" class="contact-form">
+        <input type="text" id="name" placeholder="Your name" required />
+        <input type="email" id="email" placeholder="Your email" required />
+        <textarea id="message" rows="5" placeholder="Message" required></textarea>
+        <div class="form-actions">
+          <button class="btn" type="submit">Send message</button>
+          <a class="secondary" href="mailto:dariusjerry9@gmail.com">Email Me</a>
+        </div>
+        <div id="formMsg" class="muted small"></div>
+      </form>
+    </section>
+
+    <footer>
+      © <span id="year"></span> Darius Jerry — <span class="muted">Built with HTML, CSS & JavaScript</span>
+    </footer>
+  </div>
+
+  <script>
+    // Auto-update year
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+  <script src="Portfolio.js"></script>
+  <script src="avatar.jpg"></script>
+</body>
+</html>
