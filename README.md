@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Screenshot1.png" alt="Darius Jerry Portfolio Preview" width="800px">
+</p>
 
 
 # 🎨 Darius Jerry — Personal Portfolio  
