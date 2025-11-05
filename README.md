@@ -1,8 +1,9 @@
 <p align="center">
+  🩵<br>
   <img src="logo.jpg" alt="Darius Jerry Portfolio Logo" width="200px"><br>
-  <b>⚡ DARIUS JERRY ⚡</b><br>
-  <em>Tech Enthusiast | Web Developer | Pianist</em>
+  <sup><em>“Code. Create. Inspire.”</em></sup>
 </p>
+
 
 
 # 🎨 Darius Jerry — Personal Portfolio  
