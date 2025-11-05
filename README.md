@@ -1,4 +1,12 @@
-# 🎨 Darius Jerry — Personal Portfolio
+# 🎨 Darius Jerry — Personal Portfolio  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-181717?style=for-the-badge&logo=github)
+![Open Source](https://img.shields.io/badge/Open%20Source-💻-blueviolet?style=for-the-badge)
+
+---
 
 Hey there 👋, I’m **Darius Jerry** — a student, tech enthusiast, and pianist exploring the worlds of web development, creativity, and digital trading.  
 This is my **personal portfolio website**, showcasing my skills, projects, and growth journey.
@@ -11,52 +19,53 @@ This is my **personal portfolio website**, showcasing my skills, projects, and g
 ---
 
 ## 🧠 About This Project
-This portfolio was built to highlight my current skills and ongoing learning.  
-It’s designed to be simple, responsive, and beginner-friendly — representing my growth as a student and a tech lover.
+This portfolio highlights my current skills and creative learning path.  
+It’s designed to be **clean**, **responsive**, and **student-friendly** — reflecting my curiosity and growth as a developer.
 
 **Main Sections:**
 - 🏠 Home — Introduction and focus  
 - 💡 About — My story and passions  
-- 💻 Projects — Some of my early works  
-- 🧩 Skills — Tech, creative, and learning skills  
-- 📬 Contact — Get in touch
+- 💻 Projects — My early works and experiments  
+- 🧩 Skills — Technical and creative skillset  
+- 📬 Contact — Ways to reach me  
 
 ---
 
 ## 🧰 Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript (basic)  
-- Git & GitHub  
-- Visual Studio Code  
+| Category | Tools |
+|-----------|--------|
+| **Frontend** | HTML5, CSS3, JavaScript (basic) |
+| **Version Control** | Git & GitHub |
+| **Design & Code Editor** | Visual Studio Code |
+| **Deployment** | GitHub Pages |
 
 ---
 
 ## 🎹 Featured Highlight
-My love for **music** shines through one of my favorite piano pieces —  
-🎵 *Hungarian Dance No. 5* — [Listen on YouTube](https://www.youtube.com/watch?v=3X9LvC9WkkQ)
+One of my favorite piano pieces 🎵  
+👉 [Hungarian Dance No. 5 — YouTube](https://www.youtube.com/watch?v=3X9LvC9WkkQ)
 
 ---
 
 ## 📈 What I’m Learning Now
 - JavaScript fundamentals  
-- Responsive design and layout optimization  
-- Deriv trading basics  
-- Git workflow & version control  
+- Responsive web design  
+- Deriv trading strategies  
+- Version control & Git workflow  
 
 ---
 
-## 📬 Contact Me
-- **Email:** [dariusjerry.dev@gmail.com](mailto:dariusjerry.dev@gmail.com)  
-- **Facebook:** [facebook.com/your.username](https://facebook.com/your.username)  
-- **GitHub:** [github.com/dariusjerry](https://github.com/dariusjerry)
+## 📬 Connect With Me
+[![Email](https://img.shields.io/badge/Email-DariusJerry.dev%40gmail.com-red?style=for-the-badge)](mailto:dariusjerry9@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61550285724963)
+[![GitHub](https://img.shields.io/badge/GitHub-DariusJerry-181717?style=for-the-badge&logo=github)](https://github.com/account)
 
 ---
 
 ## 🧩 Future Plans
-- Add dark mode toggle 🌙  
-- Include a mini project section for trading and music tools  
-- Add animations with Framer Motion or GSAP  
+- 🌙 Add dark/light mode toggle  
+- 🎵 Integrate music playlist section  
+- ⚡ Add smooth animations with Framer Motion  
 
 ---
 
